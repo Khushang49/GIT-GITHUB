@@ -93,6 +93,38 @@ If you deleted any file from this filesystem then how to restore. First check th
 
 ![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/cd38d308-e3bc-4cef-a774-e89891c5b87d)
 
+If you change any thing in file then just check status. It will be in **untracked**. Then you need to make it to staging. then Commit. Below are the commands.
+
+**#git status**
+
+**#git add filename**
+
+**#git commit -m "new changes"**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/def367cf-2719-4f92-a653-39651b616321)
+
+
+How to check difeerencec in file. Always differnces when it is in **untrack** mode. It will only work there.
+
+**#docker diff filename**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/7dcdd88a-442e-4ecb-90ad-73e14ab24104)
+
+If you dont want these changes then at **staged mode** first remove and make it to **untrack status**.
+
+**#git status**
+
+**#git rm filename**                       (Will remove and send it to Untrack)
+
+**#git restore --staged filename**         (Will restore and sen it to staging)
+
+**#git restore filename**                  (Will restore original file)
+
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/4b7503a9-e544-4390-bcda-5f0a3c932e2c)
+
+
+
 
 
 
