@@ -20,7 +20,9 @@ There are three stages is VCS.
 
 ![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/482069e1-832c-4547-a360-07e057c687ad)
 
-So when user created any file if he want initialise in local repo then use
+So when user created any file if he want initialise in local repo then use below command.
+
+**Note: Neveruse git inside home directory. Create new directory and do init in that directory.**
 
 **#git init**
 
