@@ -87,6 +87,13 @@ If you get any error like set your isentity then use below command. Then try git
 
 **#git config --global user.email "your_email@youremail.com"**
 
+To List these details
+
+**#git config --list**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/122516c9-01be-43db-a6b5-3d2ea85087d5)
+
+
 If you deleted any file from this filesystem then how to restore. First check the status then you wil get to know whicjh file was deleted.
 
 **#git restore filename**
