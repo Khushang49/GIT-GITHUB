@@ -36,3 +36,13 @@ If user want file back from staging area to it local then use
 
 **#git rm or uncheck**
 
+
+Steps to install GIT on local machine
+
+**#sudo apt-get update**
+
+**#sudo apt install git -y**
+
+To check version 
+
+**#git version**
