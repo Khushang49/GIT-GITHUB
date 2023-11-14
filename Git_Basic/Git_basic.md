@@ -126,7 +126,7 @@ If you dont want these changes then at **staged mode** first remove and make it 
 
 How to check whether how many Commits are performed.
 
-**#git logs**
+**#git log**
 
 ![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/2ea61e60-cebd-4fbf-a5ed-3d31f5a0ad21)
 
