@@ -139,6 +139,8 @@ How to check whether how many Commits are performed.
 
 To copy any repo or any file from remote sercer. Always copy these folders in different directory where local repos are not there.
 
+**#git clone giturl**
+
 
 
 
