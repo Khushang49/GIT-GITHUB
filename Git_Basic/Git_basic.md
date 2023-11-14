@@ -142,7 +142,11 @@ To copy any repo or any file from remote sercer. Always copy these folders in di
 **#git clone giturl**
 
 
+What is difference between git clone and git pull.
 
+So whenever you want copy anything from Remote server to local server then we will use git clone. If we want to add any changes which is done on that Repo then we use **git pull** . We can use clone everytime.
+
+If we want copy any repo from remote server to remote then use **git fork**
 
 
 
