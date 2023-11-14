@@ -46,3 +46,53 @@ Steps to install GIT on local machine
 To check version 
 
 **#git version**
+
+To check whether directory is part of git control system 
+
+**#git status**
+
+If it is showing that it is not under git then use git init. This will create a file as .git.
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/b005519d-2071-4754-84ed-bd376904ea5e)
+
+
+**#git init**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/c62c4b2a-d0ca-4938-8991-d4d8f61b712d)
+
+To add file from untracked to Staging use
+
+**#git add filename**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/48e72c68-92cd-45fd-b24a-eb0186487638)
+
+To remove any file any from staging to untrack use below command.
+
+**#git rm --cached filename**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/b62b5fa9-8ee4-4b2a-8f9a-ce1a6489ec4a)
+
+If you want to add to VCS or Track then use below command. if you are not to mention any auther then it will use hostname of your local machine.
+
+**#git commit -m "added new file"**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/bdfe207e-e50e-4b87-83ac-99beb14f7c07)
+
+
+If you get any error like set your isentity then use below command. Then try git commit
+
+**#git config --global user.name "Firstname Lastname"**
+
+**#git config --global user.email "your_email@youremail.com"**
+
+If you deleted any file from this filesystem then how to restore. First check the status then you wil get to know whicjh file was deleted.
+
+**#git restore filename**
+
+![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/cd38d308-e3bc-4cef-a774-e89891c5b87d)
+
+
+
+
+
+
