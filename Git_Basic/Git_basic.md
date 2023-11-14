@@ -137,6 +137,8 @@ How to check whether how many Commits are performed.
 
 ![image](https://github.com/Khushang49/GIT-GITHUB/assets/95266353/2ea61e60-cebd-4fbf-a5ed-3d31f5a0ad21)
 
+To copy any repo or any file from remote sercer. Always copy these folders in different directory where local repos are not there.
+
 
 
 
